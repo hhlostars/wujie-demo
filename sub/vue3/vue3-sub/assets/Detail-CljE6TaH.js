@@ -1,0 +1,1 @@
+import{d as o,w as a,e as s,c as u,t as n,u as c,f as r,o as l}from"./index-Ct6_F_Gb.js";const p={__name:"Detail",setup(m){const e=o(0);c();const t=r();return a(()=>{e.value=t.query.num||0}),s(()=>{console.log("Detail mounted")}),(_,f)=>(l(),u("div",null,n(e.value),1))}};export{p as default};
